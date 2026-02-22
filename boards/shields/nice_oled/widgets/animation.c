@@ -71,7 +71,7 @@ LV_IMG_DECLARE(catb_4);
 LV_IMG_DECLARE(catb_5);
 LV_IMG_DECLARE(catb_6);
 
-const lv_img_dsc_t *catb_imgs[] = {&catb_0, &catb_1, &catb_2, &catb_3, &catb_4, &catb_5, &catb_6, &catb_7};
+const lv_img_dsc_t *catb_imgs[] = {&catb_0, &catb_1, &catb_2, &catb_3, &catb_4, &catb_5, &catb_6};
 
 #elif IS_ENABLED(CONFIG_NICE_OLED_WIDGET_ANIMATION_PERIPHERAL_SPACEMAN)
 
